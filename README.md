@@ -1,3 +1,4 @@
 # foundrybreak
 loops for strudel
-130 bmp
+
+2 second loops
